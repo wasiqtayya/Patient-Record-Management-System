@@ -2,13 +2,12 @@
 
 ## Overview
 
-The **Patient Record Management System** is a Java-based application designed to manage and store patient records efficiently. It utilizes Firebase Database for real-time data storage and synchronization. This system provides functionalities for managing patient information, including personal details, medical history, and appointment records.
+The **Patient Record Management System** is a Java-based application designed to efficiently manage and store patient records. Utilizing Firebase Database, the system ensures real-time data storage and synchronization. It provides functionalities for handling patient information, including personal details and comprehensive patient records.
 
 ## Features
 
 - **Patient Registration:** Add new patient records with personal and contact information.
-- **Medical History Management:** Maintain and update patient medical history.
-- **Appointment Scheduling:** Schedule and manage patient appointments.
+- **Record Management:** Maintain and update detailed patient records.
 - **Real-time Data Sync:** Seamless data synchronization across devices using Firebase Database.
 - **Data Security:** Secure storage and retrieval of patient data.
 
@@ -84,8 +83,7 @@ The **Patient Record Management System** is a Java-based application designed to
 ## Usage
 
 - **Add Patient:** Use the application interface to input patient details and save them to Firebase.
-- **Update Medical History:** Update patient medical history through the application.
-- **Schedule Appointment:** Manage patient appointments using the scheduling feature.
+- **Manage Records:** Update and manage comprehensive patient records through the application.
 
 ## Contributing
 
@@ -104,7 +102,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or suggestions, please contact [Wasiq Tayyab](mailto:wasiqtayyab30@gmail.com).
-
----
-
-Feel free to customize the details and dependencies according to your project needs!
